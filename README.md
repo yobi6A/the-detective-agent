@@ -1,4 +1,4 @@
-# 🕵️ The Deductive Game – Version 5.0
+# 🕵️ The Deductive Game 
 
 ### A Cartoon-Style Detective Mystery Game Built with Python
 
